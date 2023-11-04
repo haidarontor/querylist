@@ -1,0 +1,1 @@
+SELECT * FROM sell_due_paid; 
